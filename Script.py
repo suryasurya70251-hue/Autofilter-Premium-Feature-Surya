@@ -398,10 +398,12 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
-    SOURCE_TXT ="""<b>SOURCE CODE : 👇 </b>
+    SOURCE_TEXT = """<b>ABOUT THIS BOT : 👇</b>
 
-This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/SB_KANNADA_MOVE_WORLD</a>\n """
+Welcome! This is my official Movie Bot. You can find and request your favorite movies here. 
+For any queries or support, feel free to contact me.
+
+<b>OWNER :</b> <a href="https://t.me/suryabm04">Contact Admin</a> """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
